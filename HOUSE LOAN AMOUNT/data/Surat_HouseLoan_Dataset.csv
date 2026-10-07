@@ -1,0 +1,615 @@
+Loan_ID,Applicant_Name,Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Locality,Property_Type,Loan_Status
+SURAT00001,Dipak Parmar,Male,Yes,3+,Not Graduate,No,21070,34578,373,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00002,Jalpa Patel,Female,No,1,Not Graduate,Yes,31012,0,260,240,1.0,Urban,Athwa,Apartment,Y
+SURAT00003,Chirag Patel,Male,No,0,Graduate,No,31539,0,121,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00004,Bhavesh Shah,Male,Yes,0,Graduate,No,69124,6364,346,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00005,Vijay Modi,Male,Yes,1,Graduate,No,77149,691,244,360,,Rural,Kamrej,Apartment,N
+SURAT00006,Rajesh Patel,Male,No,0,Graduate,No,38616,0,200,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00007,Harsh Desai,Male,Yes,2,Graduate,No,66567,931,191,360,1.0,Semiurban,Varachha,Row House,Y
+SURAT00008,Priya Patel,Female,Yes,2,Graduate,No,49099,31730,250,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00009,Amit Desai,Male,Yes,0,Graduate,No,73799,14226,343,360,1.0,Rural,Sachin,Row House,N
+SURAT00010,Tushar Shah,Male,Yes,3+,Not Graduate,No,30410,13861,271,360,1.0,Semiurban,Varachha,Shop+Flat,Y
+SURAT00011,Nirav Desai,Male,No,2,Graduate,No,37479,0,128,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00012,Jalpa Patel,Female,No,1,Not Graduate,No,21404,0,131,360,1.0,Urban,Althan,Apartment,Y
+SURAT00013,Jalpa Patel,Female,Yes,0,Graduate,No,67863,17695,406,360,0.0,Urban,Citylight,Apartment,N
+SURAT00014,Vishal Mehta,Male,Yes,0,Not Graduate,Yes,17275,3121,148,360,0.0,Urban,Adajan,Row House,N
+SURAT00015,Vishal Mehta,Male,No,0,Graduate,No,27408,0,112,60,,Rural,Olpad,Apartment,N
+SURAT00016,Suresh Shah,Male,No,0,Graduate,No,69980,0,446,360,0.0,Urban,Citylight,Apartment,N
+SURAT00017,Hitesh Shah,Male,Yes,0,Graduate,No,28351,25491,244,360,1.0,Urban,Pal,Row House,Y
+SURAT00018,Vishal Mehta,Male,No,2,Graduate,No,16131,0,64,360,,Urban,Vesu,Apartment,N
+SURAT00019,Alpesh Patel,Male,No,0,Graduate,No,56825,0,216,84,1.0,Urban,Pal,Row House,Y
+SURAT00020,Dhruv Shah,Male,No,1,Not Graduate,No,19349,0,123,360,1.0,Urban,Adajan,Row House,Y
+SURAT00021,Amit Desai,Male,Yes,3+,Graduate,Yes,72931,26553,428,60,1.0,Rural,Bajipura,Bungalow,Y
+SURAT00022,Nirav Desai,Male,Yes,2,Graduate,No,56254,30497,525,360,0.0,Semiurban,Amroli,Apartment,N
+SURAT00023,Vishal Mehta,Male,No,0,Graduate,No,50225,0,227,360,1.0,Semiurban,Amroli,Shop+Flat,N
+SURAT00024,Dipak Parmar,Male,Yes,2,Not Graduate,No,14079,10374,141,120,1.0,Semiurban,Udhna,Bungalow,Y
+SURAT00025,Nirav Desai,Male,No,0,Graduate,Yes,24453,0,199,360,1.0,Urban,Athwa,Apartment,N
+SURAT00026,Rupal Shah,Female,Yes,0,Graduate,No,30814,1170,155,360,0.0,Urban,Pal,Apartment,N
+SURAT00027,Hitesh Shah,Male,Yes,1,Graduate,No,30263,12450,232,180,1.0,Urban,Vesu,Apartment,Y
+SURAT00028,Jignesh Modi,Male,Yes,0,Graduate,No,27735,10680,309,84,0.0,Urban,Althan,Bungalow,N
+SURAT00029,Ketan Patel,Male,Yes,0,Graduate,No,27830,10068,153,360,0.0,Semiurban,Limbayat,Bungalow,N
+SURAT00030,Amit Desai,Male,No,1,Not Graduate,No,23125,0,184,360,0.0,Urban,Althan,Row House,N
+SURAT00031,Alpesh Patel,Male,No,0,Graduate,No,56673,0,470,180,1.0,Urban,Ghod Dod Road,Shop+Flat,Y
+SURAT00032,Nirav Desai,Male,No,0,Not Graduate,No,36702,0,194,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00033,Nilesh Mehta,Male,Yes,0,Graduate,No,57066,20666,333,120,1.0,Rural,Kim,Apartment,N
+SURAT00034,Rupal Shah,Female,Yes,2,Graduate,Yes,15373,1161,67,240,1.0,Rural,Olpad,Shop+Flat,Y
+SURAT00035,Sonal Parmar,Female,Yes,1,Not Graduate,No,18335,24535,169,360,1.0,Rural,Kim,Bungalow,N
+SURAT00036,Ritu Shah,Female,Yes,0,Graduate,No,35741,32528,268,,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00037,Bhavesh Shah,Male,Yes,0,Not Graduate,No,18692,16527,133,360,,Urban,Althan,Bungalow,Y
+SURAT00038,Dhruv Shah,Male,Yes,0,Graduate,Yes,59295,23853,338,360,1.0,Semiurban,Amroli,Tenament,Y
+SURAT00039,Sanjay Patel,,Yes,0,Graduate,No,57541,14758,489,360,0.0,Urban,Pal,Bungalow,Y
+SURAT00040,Bhavesh Shah,Male,Yes,2,Not Graduate,No,9289,244,50,360,1.0,Semiurban,Katargam,Bungalow,N
+SURAT00041,Hitesh Shah,Male,No,0,Graduate,Yes,78983,0,220,360,1.0,Semiurban,Amroli,Bungalow,Y
+SURAT00042,Tushar Shah,Male,No,0,Graduate,No,31583,0,132,180,0.0,Urban,Citylight,Apartment,Y
+SURAT00043,Vijay Modi,Male,Yes,1,Graduate,Yes,34765,2176,203,360,1.0,Semiurban,Varachha,Bungalow,Y
+SURAT00044,Sonal Parmar,Female,Yes,1,Graduate,No,71287,33654,495,360,1.0,Rural,Sachin,Apartment,N
+SURAT00045,Amit Desai,Male,No,1,Not Graduate,Yes,31906,0,265,180,1.0,Urban,Pal,Shop+Flat,Y
+SURAT00046,Ravi Joshi,Male,Yes,0,Graduate,Yes,58525,24881,282,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00047,Hitesh Shah,Male,No,0,Graduate,No,50230,0,389,360,1.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00048,Jignesh Modi,Male,No,0,Graduate,No,31520,0,176,360,1.0,Semiurban,Katargam,Apartment,N
+SURAT00049,Nirav Desai,Male,Yes,0,Graduate,Yes,63934,17755,382,,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00050,Vijay Modi,Male,Yes,1,Graduate,Yes,37566,7135,221,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00051,Jalpa Patel,Female,Yes,2,Graduate,Yes,42134,320,101,360,1.0,Rural,Bajipura,Tenament,Y
+SURAT00052,Suresh Shah,Male,Yes,1,Not Graduate,No,18345,28635,217,360,1.0,Rural,Kim,Tenament,N
+SURAT00053,Jalpa Patel,Female,Yes,2,Graduate,No,53185,21684,307,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00054,Pooja Joshi,Female,No,0,Graduate,Yes,82744,0,470,360,0.0,Urban,Adajan,Tenament,Y
+SURAT00055,Harsh Desai,Male,Yes,1,Graduate,Yes,45455,21889,261,360,1.0,Rural,Hazira,Bungalow,Y
+SURAT00056,Priya Patel,Female,Yes,0,Graduate,No,40018,30313,361,360,1.0,Urban,Vesu,Row House,Y
+SURAT00057,Sanjay Patel,Male,No,0,Graduate,No,66219,0,179,60,1.0,Rural,Kim,Apartment,N
+SURAT00058,Alpesh Patel,Male,No,0,Graduate,No,57991,0,382,360,0.0,Urban,Vesu,Shop+Flat,N
+SURAT00059,Manish Trivedi,Male,Yes,0,Graduate,No,21486,20426,151,360,1.0,Urban,Althan,Row House,N
+SURAT00060,Ravi Joshi,Male,Yes,0,Graduate,No,50862,7498,322,360,1.0,Semiurban,Bhatar,Shop+Flat,N
+SURAT00061,Nilesh Mehta,Male,Yes,3+,Graduate,No,70870,16395,525,360,1.0,Urban,Citylight,Bungalow,Y
+SURAT00062,Ketan Patel,Male,No,0,Not Graduate,No,29158,0,188,240,1.0,Urban,Vesu,Bungalow,N
+SURAT00063,Kavita Modi,Female,Yes,0,Not Graduate,No,15692,19226,230,360,1.0,Urban,Vesu,Row House,N
+SURAT00064,Suresh Shah,Male,Yes,0,Not Graduate,No,19088,15216,208,360,1.0,Urban,Adajan,Apartment,N
+SURAT00065,Hitesh Shah,Male,No,2,Graduate,Yes,43379,0,275,240,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00066,Ketan Patel,Male,Yes,1,Graduate,,76729,3009,546,360,,Urban,Vesu,Apartment,Y
+SURAT00067,Nilesh Mehta,Male,No,1,Graduate,Yes,40378,0,228,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00068,Nisha Trivedi,Female,No,0,Graduate,No,66353,0,468,360,1.0,Urban,Pal,Row House,N
+SURAT00069,Rajesh Patel,Male,Yes,1,Graduate,No,61996,14209,464,360,1.0,Semiurban,Udhna,Row House,Y
+SURAT00070,Hetal Mehta,Female,No,0,Not Graduate,No,22031,0,97,360,0.0,Urban,Pal,Shop+Flat,Y
+SURAT00071,Ketan Patel,Male,Yes,2,Not Graduate,Yes,22536,2077,76,360,0.0,Rural,Bajipura,Apartment,N
+SURAT00072,Ketan Patel,Male,No,1,Graduate,,77982,0,362,360,1.0,Rural,Kamrej,Row House,Y
+SURAT00073,Chirag Patel,Male,Yes,0,Graduate,No,48683,4873,291,120,1.0,Urban,Athwa,Apartment,Y
+SURAT00074,Kavita Modi,Female,Yes,0,Not Graduate,No,23787,8635,104,360,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00075,Dipak Parmar,Male,Yes,0,Graduate,No,29618,33065,,360,1.0,Rural,Olpad,Apartment,Y
+SURAT00076,Ravi Joshi,Male,No,0,Graduate,No,18587,0,50,360,1.0,Rural,Bajipura,Bungalow,N
+SURAT00077,Amit Desai,Male,No,0,Not Graduate,No,38022,0,134,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00078,Alpesh Patel,Male,Yes,1,Graduate,No,43480,29092,609,360,1.0,Urban,Ghod Dod Road,Bungalow,Y
+SURAT00079,Harsh Desai,Male,No,0,Graduate,No,32527,0,157,84,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00080,Nilesh Mehta,Male,Yes,0,Graduate,Yes,35569,32463,261,240,1.0,Semiurban,Bhatar,Shop+Flat,Y
+SURAT00081,Kavita Modi,Female,Yes,0,Not Graduate,No,19151,34028,349,60,1.0,Semiurban,Katargam,Bungalow,N
+SURAT00082,Ketan Patel,Male,Yes,0,Graduate,No,83094,20947,700,,1.0,Urban,Pal,Tenament,Y
+SURAT00083,Suresh Shah,Male,Yes,2,Graduate,No,71174,29978,327,360,1.0,Rural,Olpad,Shop+Flat,Y
+SURAT00084,Tushar Shah,Male,Yes,0,Graduate,No,56739,22056,215,360,1.0,Rural,Kim,Shop+Flat,N
+SURAT00085,Dipak Parmar,Male,No,1,Graduate,No,44954,0,342,360,1.0,Urban,Ghod Dod Road,Shop+Flat,N
+SURAT00086,Vijay Modi,Male,Yes,2,Graduate,No,47303,5543,370,360,1.0,Urban,Ghod Dod Road,Row House,N
+SURAT00087,Nirav Desai,Male,No,1,Graduate,No,46700,0,320,84,1.0,Urban,Vesu,Apartment,Y
+SURAT00088,Ketan Patel,Male,Yes,2,Graduate,No,79568,25097,471,360,1.0,Rural,Olpad,Apartment,Y
+SURAT00089,Mital Patel,Female,No,0,Not Graduate,No,9252,0,50,120,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00090,Bhavesh Shah,Male,No,3+,Graduate,No,83045,0,319,360,1.0,Semiurban,Udhna,Row House,Y
+SURAT00091,Ketan Patel,Male,Yes,0,Graduate,No,49842,21267,490,120,1.0,Urban,Pal,Row House,Y
+SURAT00092,Alpesh Patel,,No,0,Graduate,Yes,25900,0,101,84,0.0,Semiurban,Varachha,Shop+Flat,N
+SURAT00093,Suresh Shah,Male,Yes,1,Graduate,No,13881,21057,252,240,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00094,Nirav Desai,Male,No,3+,Graduate,No,45037,0,231,240,0.0,Semiurban,Katargam,Apartment,Y
+SURAT00095,Dipak Parmar,Male,Yes,2,Graduate,No,13630,15995,90,360,1.0,Semiurban,Bhatar,Row House,Y
+SURAT00096,Harsh Desai,Male,No,0,Graduate,No,32789,0,112,120,0.0,Rural,Kamrej,Tenament,N
+SURAT00097,Alpesh Patel,Male,Yes,0,Graduate,No,58151,17793,224,60,1.0,Rural,Olpad,Apartment,Y
+SURAT00098,Hitesh Shah,Male,Yes,3+,Graduate,No,60920,26270,254,180,1.0,Rural,Hazira,Bungalow,N
+SURAT00099,Sanjay Patel,Male,No,0,Not Graduate,Yes,19084,0,123,360,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00100,Nilesh Mehta,Male,Yes,2,Not Graduate,No,9695,7452,68,360,1.0,Semiurban,Udhna,Row House,N
+SURAT00101,Ketan Patel,Male,Yes,2,Graduate,Yes,15262,14859,172,120,0.0,Semiurban,Bhatar,Apartment,N
+SURAT00102,Vijay Modi,Male,Yes,0,Graduate,No,78981,27236,233,360,1.0,Rural,Bajipura,Shop+Flat,Y
+SURAT00103,Alpesh Patel,Male,Yes,0,Graduate,No,66722,31899,664,180,1.0,Urban,Althan,Row House,N
+SURAT00104,Tushar Shah,Male,Yes,0,Graduate,No,62818,32083,700,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00105,Priya Patel,Female,Yes,0,Graduate,No,41932,2172,299,360,1.0,Urban,Althan,Apartment,Y
+SURAT00106,Tushar Shah,Male,Yes,2,Not Graduate,No,14901,16663,147,360,0.0,Semiurban,Udhna,Apartment,Y
+SURAT00107,Bhavesh Shah,Male,Yes,0,Graduate,No,20597,27540,392,360,1.0,Urban,Athwa,Tenament,Y
+SURAT00108,Sanjay Patel,Male,No,2,Graduate,No,75909,0,377,360,1.0,Urban,Adajan,Bungalow,N
+SURAT00109,Nirav Desai,Male,Yes,0,Not Graduate,No,14855,11085,93,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00110,Rajesh Patel,Male,Yes,3+,Graduate,No,20263,30564,285,360,0.0,Urban,Vesu,Apartment,N
+SURAT00111,Vishal Mehta,Male,Yes,0,Not Graduate,Yes,38525,24209,131,360,1.0,Rural,Olpad,Row House,Y
+SURAT00112,Ketan Patel,Male,Yes,0,Graduate,No,37805,3981,341,360,1.0,Urban,Vesu,Bungalow,Y
+SURAT00113,Hetal Mehta,Female,No,0,Graduate,No,23874,0,84,240,1.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00114,Komal Desai,Female,Yes,2,Graduate,Yes,26079,5247,181,60,1.0,Semiurban,Katargam,Apartment,N
+SURAT00115,Dipak Parmar,Male,Yes,1,Graduate,No,61850,10553,301,240,1.0,Rural,Kim,Bungalow,Y
+SURAT00116,Jalpa Patel,Female,No,2,Not Graduate,No,15243,0,69,60,0.0,Urban,Ghod Dod Road,Row House,N
+SURAT00117,Kavita Modi,Female,No,0,Graduate,No,21018,0,78,240,1.0,Rural,Hazira,Tenament,Y
+SURAT00118,Hitesh Shah,Male,Yes,0,Not Graduate,No,30302,6135,106,360,0.0,Semiurban,Bhatar,Shop+Flat,N
+SURAT00119,Foram Patel,Female,No,0,Graduate,No,61500,0,206,240,1.0,Rural,Kim,Bungalow,Y
+SURAT00120,Amit Desai,Male,No,0,Graduate,Yes,24100,0,50,240,1.0,Rural,Kamrej,Bungalow,N
+SURAT00121,Priya Patel,Female,Yes,0,Graduate,No,69021,7189,610,360,0.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00122,Mital Patel,Female,No,3+,Graduate,,31800,0,263,360,1.0,Urban,Athwa,Bungalow,Y
+SURAT00123,Jignesh Modi,Male,No,3+,Not Graduate,No,37822,0,173,240,1.0,Urban,Citylight,Apartment,Y
+SURAT00124,Manish Trivedi,Male,Yes,3+,Graduate,No,75400,2776,277,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00125,Nilesh Mehta,Male,Yes,2,Graduate,No,41437,27564,496,360,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00126,Manish Trivedi,Male,Yes,0,Graduate,No,58675,28835,414,360,1.0,Urban,Ghod Dod Road,Bungalow,Y
+SURAT00127,Rupal Shah,Female,No,0,Graduate,No,31942,0,197,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00128,Neha Shah,Female,No,0,Graduate,Yes,32862,0,207,360,0.0,Urban,Citylight,Apartment,N
+SURAT00129,Hitesh Shah,Male,No,2,Graduate,No,23669,0,123,360,0.0,Urban,Citylight,Apartment,Y
+SURAT00130,Harsh Desai,Male,Yes,0,Not Graduate,No,30915,17046,363,360,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00131,Suresh Shah,Male,Yes,0,Graduate,Yes,65772,8044,436,360,0.0,Urban,Adajan,Apartment,N
+SURAT00132,Tushar Shah,Male,Yes,0,Graduate,No,27916,9615,299,120,0.0,Urban,Vesu,Bungalow,Y
+SURAT00133,Rajesh Patel,Male,Yes,0,Graduate,No,22878,5060,176,120,1.0,Semiurban,Amroli,Bungalow,N
+SURAT00134,Nilesh Mehta,Male,Yes,2,Graduate,No,14985,10900,87,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00135,Nisha Trivedi,Female,No,2,Not Graduate,No,16112,0,50,240,1.0,Rural,Sachin,Shop+Flat,N
+SURAT00136,Bhavesh Shah,Male,Yes,0,Graduate,No,53235,34782,575,360,1.0,Semiurban,Limbayat,Bungalow,Y
+SURAT00137,Ravi Joshi,Male,No,3+,Graduate,No,30931,0,192,360,1.0,Semiurban,Amroli,Apartment,N
+SURAT00138,Dipak Parmar,Male,Yes,1,Graduate,No,12336,12997,95,360,0.0,Urban,Vesu,Bungalow,Y
+SURAT00139,Nirav Desai,Male,Yes,0,Graduate,Yes,54933,7148,268,360,1.0,Rural,Bajipura,Tenament,Y
+SURAT00140,Pooja Joshi,Female,Yes,0,Graduate,No,57536,18748,250,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00141,Mital Patel,Female,Yes,0,Not Graduate,No,11968,14022,70,360,1.0,Rural,Kim,Apartment,Y
+SURAT00142,Amit Desai,Male,No,0,Not Graduate,No,8910,0,54,240,1.0,Semiurban,Bhatar,Shop+Flat,Y
+SURAT00143,Bhavesh Shah,Male,Yes,3+,Not Graduate,No,26380,15886,188,240,1.0,Urban,Althan,Row House,N
+SURAT00144,Nilesh Mehta,Male,No,0,Graduate,No,28279,0,230,360,1.0,Urban,Althan,Apartment,N
+SURAT00145,Sanjay Patel,Male,Yes,2,Graduate,No,80665,30005,498,360,1.0,Urban,Pal,Row House,Y
+SURAT00146,Jignesh Modi,Male,No,0,Graduate,Yes,83386,0,310,360,1.0,Rural,Hazira,Row House,Y
+SURAT00147,Vishal Mehta,Male,Yes,0,Graduate,No,78670,33377,404,360,1.0,Semiurban,Bhatar,Shop+Flat,Y
+SURAT00148,Dipak Parmar,Male,No,0,Not Graduate,Yes,18938,0,,240,1.0,Semiurban,Katargam,Row House,Y
+SURAT00149,Ravi Joshi,Male,No,0,Graduate,No,66028,0,452,360,1.0,Urban,Althan,Apartment,N
+SURAT00150,Suresh Shah,Male,Yes,0,Not Graduate,Yes,32486,22394,138,240,1.0,Rural,Hazira,Row House,Y
+SURAT00151,Rupal Shah,Female,Yes,3+,Graduate,No,83128,2253,516,120,1.0,Urban,Althan,Row House,Y
+SURAT00152,Amit Desai,Male,No,0,Graduate,No,30108,0,174,360,1.0,Urban,Pal,Apartment,Y
+SURAT00153,Amit Desai,Male,No,1,Graduate,No,64495,0,248,60,1.0,Urban,Vesu,Row House,Y
+SURAT00154,Rajesh Patel,Male,Yes,0,Graduate,Yes,68830,13666,486,360,0.0,Semiurban,Varachha,Bungalow,N
+SURAT00155,Pooja Joshi,Female,No,0,Graduate,No,64509,0,260,360,1.0,Semiurban,Amroli,Apartment,N
+SURAT00156,Harsh Desai,Male,No,0,Not Graduate,No,8870,0,50,360,1.0,Rural,Kamrej,Row House,N
+SURAT00157,Dipak Parmar,Male,No,1,Graduate,No,51519,0,310,360,,Urban,Vesu,Apartment,Y
+SURAT00158,Ravi Joshi,Male,No,0,Graduate,No,61649,0,291,360,0.0,Semiurban,Katargam,Apartment,Y
+SURAT00159,Nilesh Mehta,Male,No,0,Graduate,No,46524,0,147,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00160,Vishal Mehta,Male,Yes,1,Not Graduate,No,38957,16709,310,180,0.0,Urban,Ghod Dod Road,Apartment,N
+SURAT00161,Amit Desai,Male,Yes,0,Graduate,No,45885,9726,181,84,1.0,Rural,Hazira,Bungalow,Y
+SURAT00162,Nilesh Mehta,Male,Yes,0,Not Graduate,No,19601,20245,222,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00163,Nilesh Mehta,Male,No,0,Graduate,No,42676,0,,360,0.0,Semiurban,Varachha,Bungalow,Y
+SURAT00164,Alpesh Patel,Male,No,3+,Not Graduate,No,39325,0,138,240,1.0,Rural,Kamrej,Apartment,Y
+SURAT00165,Vishal Mehta,Male,Yes,1,Graduate,Yes,59764,21316,250,360,1.0,Semiurban,Limbayat,Tenament,N
+SURAT00166,Sonal Parmar,Female,No,0,Graduate,Yes,62799,0,292,180,1.0,Urban,Pal,Row House,Y
+SURAT00167,Vijay Modi,Male,No,0,Graduate,Yes,84307,0,285,180,1.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00168,Hitesh Shah,Male,Yes,3+,Not Graduate,No,24526,30791,227,120,1.0,Urban,Pal,Apartment,Y
+SURAT00169,Manish Trivedi,Male,Yes,1,Graduate,No,43923,25216,365,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00170,Jignesh Modi,Male,Yes,0,Graduate,No,59574,32467,425,240,,Urban,Adajan,Apartment,Y
+SURAT00171,Harsh Desai,Male,Yes,2,Graduate,No,55391,7754,226,360,0.0,Semiurban,Bhatar,Shop+Flat,Y
+SURAT00172,Harsh Desai,Male,Yes,0,Not Graduate,Yes,38387,4078,125,60,0.0,Semiurban,Katargam,Apartment,N
+SURAT00173,Dhruv Shah,Male,Yes,0,Graduate,No,65664,12853,281,360,1.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00174,Harsh Desai,Male,Yes,1,Not Graduate,No,9848,4042,50,360,1.0,Semiurban,Limbayat,Bungalow,Y
+SURAT00175,Vishal Mehta,Male,Yes,0,Graduate,No,43027,14389,142,360,0.0,Rural,Hazira,Apartment,Y
+SURAT00176,Alpesh Patel,,Yes,3+,Graduate,Yes,47464,30425,437,180,0.0,Urban,Athwa,Bungalow,N
+SURAT00177,Ketan Patel,Male,Yes,2,Graduate,No,46485,2575,294,360,1.0,Urban,Citylight,Row House,Y
+SURAT00178,Rajesh Patel,Male,No,1,Graduate,No,31456,0,103,360,1.0,Semiurban,Katargam,Bungalow,Y
+SURAT00179,Ritu Shah,Female,Yes,0,Graduate,No,47554,34754,459,,1.0,Urban,Adajan,Apartment,Y
+SURAT00180,Nirav Desai,Male,No,0,Graduate,No,58922,0,239,84,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00181,Rajesh Patel,Male,No,0,Graduate,No,25409,0,111,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00182,Bhavesh Shah,Male,Yes,2,Graduate,No,81327,26681,299,360,0.0,Semiurban,Varachha,Bungalow,N
+SURAT00183,Priya Patel,Female,Yes,0,Graduate,No,48639,23988,330,120,1.0,Semiurban,Katargam,Row House,Y
+SURAT00184,Jalpa Patel,Female,Yes,0,Graduate,No,75627,15470,490,84,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00185,Suresh Shah,Male,Yes,1,Graduate,No,31692,24704,148,360,1.0,Rural,Kim,Shop+Flat,Y
+SURAT00186,Vishal Mehta,Male,Yes,0,Graduate,No,66200,29377,226,360,1.0,Rural,Hazira,Apartment,Y
+SURAT00187,Hetal Mehta,Female,Yes,1,Not Graduate,No,35527,28572,395,360,1.0,Semiurban,Limbayat,Shop+Flat,N
+SURAT00188,Harsh Desai,Male,Yes,0,Not Graduate,No,32647,7493,152,180,1.0,Semiurban,Udhna,Tenament,Y
+SURAT00189,Harsh Desai,Male,Yes,3+,Graduate,No,30074,4103,157,360,1.0,Urban,Ghod Dod Road,Shop+Flat,N
+SURAT00190,Alpesh Patel,Male,Yes,0,Graduate,No,27549,34844,377,360,1.0,Semiurban,Udhna,Bungalow,N
+SURAT00191,Dhruv Shah,Male,Yes,0,Graduate,No,41963,2994,337,360,1.0,Urban,Althan,Apartment,N
+SURAT00192,Asha Desai,Female,Yes,0,Graduate,Yes,64265,3744,221,84,1.0,Rural,Kamrej,Apartment,N
+SURAT00193,Mital Patel,Female,Yes,0,Graduate,No,28061,27332,326,360,1.0,Urban,Adajan,Bungalow,N
+SURAT00194,Ketan Patel,Male,Yes,2,Graduate,No,70226,5594,272,360,0.0,Semiurban,Amroli,Apartment,N
+SURAT00195,Amit Desai,Male,No,2,Graduate,No,40810,0,,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00196,Dhruv Shah,Male,Yes,1,Graduate,No,72006,18028,446,240,0.0,Semiurban,Katargam,Bungalow,Y
+SURAT00197,Alpesh Patel,Male,Yes,0,Graduate,No,34800,13990,111,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00198,Pooja Joshi,Female,No,0,Graduate,No,81460,0,464,240,0.0,Urban,Citylight,Shop+Flat,N
+SURAT00199,Sonal Parmar,Female,Yes,0,Not Graduate,No,32999,20469,247,360,0.0,Rural,Sachin,Bungalow,N
+SURAT00200,Tushar Shah,Male,No,1,Graduate,No,40054,0,327,84,1.0,Urban,Adajan,Bungalow,N
+SURAT00201,Nirav Desai,Male,No,2,Graduate,No,57397,0,,360,1.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00202,Nirav Desai,Male,Yes,0,Not Graduate,No,21233,17883,146,360,1.0,Rural,Kamrej,Shop+Flat,Y
+SURAT00203,Rajesh Patel,Male,No,0,Graduate,No,37068,0,215,360,0.0,Urban,Althan,Bungalow,Y
+SURAT00204,Kavita Modi,Female,No,1,Graduate,No,77727,0,346,240,1.0,Rural,Kamrej,Row House,Y
+SURAT00205,Dhruv Shah,Male,No,2,Graduate,No,82453,0,398,360,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00206,Vijay Modi,Male,No,2,Graduate,Yes,37832,0,133,120,1.0,Urban,Athwa,Shop+Flat,Y
+SURAT00207,Ketan Patel,Male,No,2,Not Graduate,No,18160,0,50,240,0.0,Rural,Olpad,Bungalow,N
+SURAT00208,Rajesh Patel,Male,Yes,0,Graduate,Yes,25682,23154,254,360,1.0,Urban,Adajan,Apartment,N
+SURAT00209,Nilesh Mehta,Male,Yes,0,Not Graduate,,34762,25625,174,60,1.0,Rural,Kamrej,Apartment,Y
+SURAT00210,Rajesh Patel,Male,Yes,2,Graduate,Yes,35383,33066,288,360,1.0,Rural,Sachin,Row House,Y
+SURAT00211,Vijay Modi,Male,Yes,1,Graduate,Yes,70160,33691,700,120,1.0,Urban,Citylight,Apartment,Y
+SURAT00212,Suresh Shah,Male,Yes,0,Graduate,No,35666,13331,191,360,1.0,Semiurban,Bhatar,Shop+Flat,Y
+SURAT00213,Manish Trivedi,Male,Yes,2,Graduate,No,70817,20690,525,360,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00214,Nilesh Mehta,Male,Yes,2,Graduate,No,46642,19183,205,240,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00215,Manish Trivedi,Male,No,1,Graduate,No,53830,0,425,360,0.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00216,Rajesh Patel,Male,No,1,Graduate,No,22234,0,179,360,1.0,Urban,Althan,Apartment,Y
+SURAT00217,Ketan Patel,Male,Yes,0,Graduate,No,69616,28621,700,360,1.0,Urban,Althan,Bungalow,N
+SURAT00218,Hitesh Shah,Male,Yes,0,Not Graduate,No,17221,10905,171,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00219,Nirav Desai,Male,No,0,Graduate,No,23410,0,58,120,1.0,Rural,Bajipura,Row House,Y
+SURAT00220,Kavita Modi,Female,Yes,2,Graduate,No,73413,19041,196,360,1.0,Rural,Olpad,Apartment,Y
+SURAT00221,Hitesh Shah,Male,No,2,Not Graduate,No,9051,0,50,84,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00222,Tushar Shah,Male,Yes,2,Not Graduate,No,20225,33709,337,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00223,Nirav Desai,Male,Yes,0,Graduate,No,68563,34675,257,360,1.0,Rural,Hazira,Apartment,Y
+SURAT00224,Harsh Desai,Male,No,2,Not Graduate,No,19989,0,70,180,1.0,Urban,Vesu,Row House,Y
+SURAT00225,Nilesh Mehta,Male,Yes,2,Graduate,No,63257,24489,,360,0.0,Semiurban,Limbayat,Apartment,N
+SURAT00226,Nirav Desai,Male,No,1,Graduate,No,12307,0,50,60,1.0,Rural,Olpad,Row House,Y
+SURAT00227,Kavita Modi,Female,No,2,Graduate,No,68889,0,380,240,0.0,Urban,Citylight,Shop+Flat,N
+SURAT00228,Sanjay Patel,,Yes,2,Not Graduate,No,11359,13543,133,360,1.0,Semiurban,Udhna,Bungalow,Y
+SURAT00229,Disha Mehta,Female,No,0,Graduate,No,47944,0,127,360,,Rural,Olpad,Shop+Flat,Y
+SURAT00230,Suresh Shah,Male,No,0,Graduate,No,50134,0,112,360,1.0,Rural,Olpad,Shop+Flat,N
+SURAT00231,Foram Patel,Female,Yes,0,Graduate,No,39323,30771,400,360,0.0,Semiurban,Amroli,Apartment,N
+SURAT00232,Alpesh Patel,Male,No,0,Not Graduate,No,25901,0,170,240,1.0,Urban,Pal,Apartment,N
+SURAT00233,Alpesh Patel,Male,Yes,1,Not Graduate,No,14226,375,121,360,1.0,Urban,Vesu,Row House,Y
+SURAT00234,Vijay Modi,Male,Yes,2,Graduate,No,37954,33030,368,360,1.0,Urban,Citylight,Shop+Flat,Y
+SURAT00235,Vijay Modi,Male,Yes,0,Not Graduate,No,30253,20746,152,360,1.0,Semiurban,Udhna,Tenament,N
+SURAT00236,Dipak Parmar,Male,Yes,0,Graduate,No,82427,22886,700,360,1.0,Urban,Adajan,Apartment,Y
+SURAT00237,Nilesh Mehta,Male,No,1,Graduate,No,16992,0,58,360,,Rural,Sachin,Apartment,Y
+SURAT00238,Tushar Shah,Male,No,0,Graduate,Yes,13961,0,63,120,1.0,Urban,Adajan,Apartment,Y
+SURAT00239,Dipak Parmar,Male,Yes,0,Graduate,No,24497,1893,193,180,0.0,Urban,Ghod Dod Road,Bungalow,Y
+SURAT00240,Manish Trivedi,Male,No,0,Graduate,No,44551,0,157,240,1.0,Semiurban,Amroli,Row House,Y
+SURAT00241,Pooja Joshi,Female,Yes,0,Graduate,No,67755,31371,372,,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00242,Mital Patel,Female,Yes,0,Graduate,No,25255,11826,146,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00243,Mital Patel,Female,Yes,0,Not Graduate,No,12567,34420,201,120,0.0,Semiurban,Bhatar,Row House,N
+SURAT00244,Harsh Desai,Male,Yes,0,Not Graduate,No,24079,21924,200,360,0.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00245,Nirav Desai,Male,Yes,2,Not Graduate,No,14513,33367,288,360,,Urban,Althan,Apartment,Y
+SURAT00246,Sonal Parmar,Female,No,0,Not Graduate,Yes,23235,0,162,360,1.0,Urban,Citylight,Shop+Flat,Y
+SURAT00247,Vishal Mehta,Male,Yes,1,Graduate,No,32389,25868,264,360,0.0,Rural,Kamrej,Row House,N
+SURAT00248,Foram Patel,Female,Yes,0,Graduate,No,56523,8792,214,240,1.0,Semiurban,Amroli,Bungalow,Y
+SURAT00249,Rupal Shah,Female,Yes,0,Graduate,No,73576,20597,354,360,1.0,Urban,Ghod Dod Road,Bungalow,Y
+SURAT00250,Sonal Parmar,Female,Yes,1,Graduate,No,55919,32696,181,180,1.0,Rural,Bajipura,Apartment,Y
+SURAT00251,Hitesh Shah,Male,No,0,Graduate,No,15358,0,50,360,1.0,Rural,Sachin,Apartment,N
+SURAT00252,Harsh Desai,Male,Yes,0,Graduate,No,17698,28931,246,360,0.0,Semiurban,Amroli,Bungalow,N
+SURAT00253,Komal Desai,Female,Yes,1,Graduate,No,78809,9290,489,240,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00254,Jignesh Modi,Male,Yes,1,Graduate,No,67805,14342,345,360,1.0,Rural,Olpad,Bungalow,N
+SURAT00255,Rajesh Patel,Male,Yes,0,Graduate,No,43349,24941,183,360,,Rural,Olpad,Bungalow,N
+SURAT00256,Nirav Desai,Male,Yes,0,Graduate,Yes,62248,13945,299,360,0.0,Semiurban,Katargam,Bungalow,Y
+SURAT00257,Pooja Joshi,Female,Yes,1,Graduate,No,56041,10762,307,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00258,Dipak Parmar,Male,No,0,Graduate,No,43954,0,131,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00259,Sanjay Patel,Male,No,1,Graduate,No,20002,0,102,360,0.0,Semiurban,Udhna,Row House,N
+SURAT00260,Sanjay Patel,Male,Yes,2,Graduate,Yes,81783,19953,700,60,1.0,Urban,Pal,Apartment,Y
+SURAT00261,Vijay Modi,Male,Yes,3+,Not Graduate,No,17220,17130,142,120,1.0,Semiurban,Limbayat,Bungalow,Y
+SURAT00262,Kavita Modi,Female,Yes,0,Graduate,No,31738,31086,258,240,1.0,Rural,Kamrej,Bungalow,Y
+SURAT00263,Nilesh Mehta,Male,Yes,2,Graduate,Yes,22703,4633,127,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00264,Nilesh Mehta,Male,Yes,0,Not Graduate,No,23472,17304,168,360,0.0,Urban,Pal,Bungalow,N
+SURAT00265,Pooja Joshi,Female,Yes,0,Graduate,No,61422,32284,467,240,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00266,Manish Trivedi,Male,Yes,0,Graduate,No,73899,7008,402,360,1.0,Urban,Adajan,Apartment,Y
+SURAT00267,Bhavesh Shah,Male,Yes,2,Graduate,No,24392,27405,190,360,1.0,Urban,Adajan,Tenament,N
+SURAT00268,Ravi Joshi,Male,Yes,0,Graduate,No,56724,25373,426,60,,Semiurban,Udhna,Tenament,Y
+SURAT00269,Alpesh Patel,Male,Yes,0,Graduate,No,44299,20827,502,360,1.0,Urban,Ghod Dod Road,Row House,N
+SURAT00270,Vishal Mehta,Male,Yes,0,Graduate,No,27641,33040,314,360,1.0,Urban,Vesu,Shop+Flat,Y
+SURAT00271,Pooja Joshi,Female,Yes,2,Not Graduate,No,21998,13007,108,360,1.0,Rural,Bajipura,Row House,Y
+SURAT00272,Nisha Trivedi,Female,Yes,2,Graduate,Yes,18305,18157,286,360,1.0,Urban,Althan,Apartment,N
+SURAT00273,Mital Patel,Female,No,2,Graduate,No,30782,0,230,360,1.0,Urban,Pal,Apartment,Y
+SURAT00274,Foram Patel,Female,Yes,0,Graduate,No,32566,21164,215,360,1.0,Rural,Olpad,Shop+Flat,Y
+SURAT00275,Rajesh Patel,Male,No,0,Graduate,No,79766,0,295,360,1.0,Semiurban,Amroli,Apartment,N
+SURAT00276,Vishal Mehta,Male,Yes,1,Graduate,No,18511,14327,205,360,1.0,Semiurban,Varachha,Row House,N
+SURAT00277,Hetal Mehta,Female,No,0,Graduate,No,38177,0,92,360,0.0,Rural,Hazira,Row House,N
+SURAT00278,Vishal Mehta,Male,Yes,0,Not Graduate,Yes,12765,14693,180,360,1.0,Urban,Athwa,Bungalow,N
+SURAT00279,Vijay Modi,Male,No,1,Graduate,No,32354,0,92,240,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00280,Mital Patel,Female,No,3+,Graduate,No,35929,0,187,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00281,Ritu Shah,Female,Yes,2,Graduate,No,40820,15540,156,240,,Rural,Kim,Apartment,Y
+SURAT00282,Rajesh Patel,Male,Yes,2,Graduate,No,41523,6719,216,60,1.0,Semiurban,Amroli,Row House,Y
+SURAT00283,Alpesh Patel,Male,Yes,3+,Graduate,No,83088,25081,441,240,0.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00284,Harsh Desai,Male,Yes,0,Graduate,No,78163,11350,305,120,1.0,Semiurban,Limbayat,Row House,Y
+SURAT00285,Nirav Desai,Male,Yes,1,Graduate,No,25780,32021,297,84,0.0,Semiurban,Katargam,Bungalow,N
+SURAT00286,Nirav Desai,Male,Yes,3+,Graduate,No,18589,28369,288,360,0.0,Semiurban,Amroli,Apartment,N
+SURAT00287,Ravi Joshi,Male,Yes,0,Not Graduate,No,10044,31728,,240,1.0,Semiurban,Limbayat,Shop+Flat,N
+SURAT00288,Ravi Joshi,Male,Yes,1,Graduate,No,57939,17576,263,120,1.0,Semiurban,Bhatar,Row House,Y
+SURAT00289,Manish Trivedi,Male,No,1,Not Graduate,No,26725,0,147,360,1.0,Semiurban,Bhatar,Apartment,N
+SURAT00290,Tushar Shah,Male,Yes,1,Graduate,Yes,52953,17848,375,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00291,Ravi Joshi,Male,No,1,Graduate,No,77785,0,316,84,1.0,Semiurban,Katargam,Bungalow,N
+SURAT00292,Amit Desai,Male,Yes,3+,Graduate,No,31309,21999,109,240,1.0,Rural,Kim,Shop+Flat,Y
+SURAT00293,Jalpa Patel,Female,Yes,2,Graduate,No,66195,11569,420,360,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00294,Tushar Shah,Male,Yes,0,Graduate,No,37901,13029,236,360,1.0,Rural,Bajipura,Bungalow,N
+SURAT00295,Dipak Parmar,Male,Yes,2,Graduate,No,35576,22490,218,180,1.0,Rural,Hazira,Apartment,N
+SURAT00296,Ketan Patel,Male,No,0,Graduate,No,43508,0,192,360,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00297,Suresh Shah,Male,Yes,0,Graduate,No,37464,15284,251,,1.0,Semiurban,Varachha,Row House,Y
+SURAT00298,Dhruv Shah,Male,No,0,Graduate,No,72281,0,184,180,,Rural,Olpad,Row House,Y
+SURAT00299,Jignesh Modi,Male,Yes,0,Not Graduate,Yes,24260,9121,188,360,1.0,Semiurban,Udhna,Bungalow,Y
+SURAT00300,Suresh Shah,Male,Yes,0,Graduate,No,47440,1539,200,360,1.0,Rural,Kim,Apartment,Y
+SURAT00301,Bhavesh Shah,Male,Yes,3+,Graduate,No,68683,25488,311,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00302,Dipak Parmar,Male,Yes,1,Graduate,No,53430,17027,431,240,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00303,Sanjay Patel,Male,Yes,1,Not Graduate,No,9987,8693,90,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00304,Alpesh Patel,Male,Yes,0,Not Graduate,No,24474,8921,218,360,1.0,Semiurban,Udhna,Apartment,N
+SURAT00305,Dhruv Shah,Male,Yes,3+,Graduate,No,37105,10310,145,360,0.0,Rural,Sachin,Apartment,Y
+SURAT00306,Kavita Modi,Female,Yes,3+,Graduate,No,25026,30908,192,60,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00307,Ketan Patel,Male,Yes,2,Graduate,No,80309,4386,347,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00308,Rajesh Patel,Male,Yes,0,Graduate,No,57927,32263,291,360,,Rural,Kim,Row House,N
+SURAT00309,Priya Patel,Female,Yes,0,Graduate,No,69535,28412,295,360,1.0,Semiurban,Katargam,Apartment,N
+SURAT00310,Dipak Parmar,Male,Yes,0,Not Graduate,No,18178,17303,176,120,,Semiurban,Bhatar,Apartment,Y
+SURAT00311,Jignesh Modi,Male,Yes,0,Graduate,No,68561,12242,408,360,,Semiurban,Bhatar,Row House,Y
+SURAT00312,Bhavesh Shah,Male,Yes,0,Graduate,No,22377,8947,175,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00313,Dhruv Shah,Male,Yes,3+,Not Graduate,No,28824,5930,126,360,1.0,Urban,Pal,Row House,Y
+SURAT00314,Priya Patel,Female,Yes,0,Graduate,,19347,507,95,240,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00315,Kavita Modi,Female,Yes,0,Graduate,No,45776,1436,139,360,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00316,Ravi Joshi,Male,No,0,Graduate,No,15783,0,109,360,1.0,Urban,Pal,Apartment,Y
+SURAT00317,Bhavesh Shah,Male,Yes,0,Not Graduate,Yes,31030,11618,126,360,,Semiurban,Amroli,Apartment,Y
+SURAT00318,Tushar Shah,Male,Yes,0,Graduate,No,16298,8750,199,120,1.0,Urban,Althan,Row House,Y
+SURAT00319,Harsh Desai,Male,Yes,0,Not Graduate,No,12668,16122,199,360,1.0,Urban,Althan,Shop+Flat,Y
+SURAT00320,Bhavesh Shah,Male,Yes,0,Not Graduate,Yes,28671,7354,215,360,1.0,Urban,Adajan,Apartment,Y
+SURAT00321,Dhruv Shah,Male,Yes,2,Graduate,,67161,30979,555,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00322,Rajesh Patel,Male,Yes,3+,Graduate,No,72652,20900,304,60,1.0,Semiurban,Katargam,Bungalow,Y
+SURAT00323,Hitesh Shah,Male,No,0,Not Graduate,Yes,9716,0,50,360,0.0,Rural,Hazira,Apartment,Y
+SURAT00324,Alpesh Patel,Male,Yes,0,Graduate,No,32922,5037,231,60,1.0,Semiurban,Katargam,Bungalow,Y
+SURAT00325,Foram Patel,Female,Yes,2,Not Graduate,No,9260,28633,300,120,1.0,Urban,Vesu,Apartment,N
+SURAT00326,Alpesh Patel,Male,Yes,0,Not Graduate,No,21157,24495,159,360,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00327,Bhavesh Shah,Male,Yes,0,Graduate,No,32316,15848,308,240,1.0,Urban,Pal,Apartment,Y
+SURAT00328,Hitesh Shah,Male,Yes,2,Graduate,No,28968,7837,203,360,1.0,Semiurban,Udhna,Apartment,N
+SURAT00329,Chirag Patel,Male,Yes,0,Not Graduate,No,38266,34069,472,360,1.0,Urban,Athwa,Shop+Flat,Y
+SURAT00330,Harsh Desai,Male,Yes,1,Graduate,No,36000,7370,132,360,1.0,Semiurban,Bhatar,Row House,Y
+SURAT00331,Alpesh Patel,,No,1,Graduate,No,26011,0,118,360,0.0,Urban,Athwa,Row House,N
+SURAT00332,Jignesh Modi,Male,Yes,0,Graduate,No,14866,30499,122,84,1.0,Rural,Kamrej,Bungalow,N
+SURAT00333,Rajesh Patel,Male,Yes,0,Graduate,No,17898,30225,364,360,1.0,Urban,Athwa,Row House,Y
+SURAT00334,Vishal Mehta,Male,Yes,2,Not Graduate,No,26395,692,156,120,1.0,Urban,Pal,Apartment,N
+SURAT00335,Alpesh Patel,Male,Yes,0,Not Graduate,No,14251,28926,145,360,1.0,Rural,Kim,Row House,N
+SURAT00336,Nirav Desai,Male,Yes,0,Graduate,No,16006,34246,406,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00337,Neha Shah,Female,Yes,2,Graduate,No,46393,8448,363,120,1.0,Urban,Pal,Bungalow,N
+SURAT00338,Suresh Shah,Male,No,0,Graduate,No,22956,0,142,360,1.0,Semiurban,Katargam,Tenament,Y
+SURAT00339,Bhavesh Shah,Male,No,0,Not Graduate,No,25274,0,113,240,0.0,Semiurban,Amroli,Apartment,N
+SURAT00340,Jignesh Modi,Male,Yes,2,Graduate,Yes,18078,6533,81,,1.0,Semiurban,Varachha,Apartment,N
+SURAT00341,Ketan Patel,Male,No,0,Graduate,No,41631,0,335,360,1.0,Urban,Althan,Apartment,N
+SURAT00342,Alpesh Patel,Male,Yes,2,Graduate,No,74901,7211,370,240,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00343,Vijay Modi,Male,Yes,2,Graduate,No,81497,9927,401,360,1.0,Urban,Ghod Dod Road,Shop+Flat,Y
+SURAT00344,Rajesh Patel,Male,Yes,1,Not Graduate,No,37277,11927,245,360,0.0,Urban,Athwa,Apartment,N
+SURAT00345,Harsh Desai,Male,No,0,Graduate,No,53574,0,114,60,1.0,Rural,Kamrej,Apartment,Y
+SURAT00346,Dhruv Shah,Male,Yes,3+,Graduate,No,43417,9316,240,240,,Semiurban,Bhatar,Bungalow,N
+SURAT00347,Amit Desai,Male,Yes,0,Graduate,No,77006,12177,684,84,1.0,Urban,Vesu,Shop+Flat,N
+SURAT00348,Manish Trivedi,Male,Yes,1,Not Graduate,Yes,37345,10846,305,240,1.0,Semiurban,Bhatar,Row House,N
+SURAT00349,Manish Trivedi,Male,Yes,0,Graduate,No,51454,7933,479,240,1.0,Urban,Athwa,Row House,Y
+SURAT00350,Alpesh Patel,Male,Yes,0,Graduate,No,13587,2080,50,360,1.0,Rural,Sachin,Row House,Y
+SURAT00351,Vishal Mehta,Male,Yes,0,Graduate,No,66710,6089,391,360,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00352,Neha Shah,Female,Yes,3+,Not Graduate,No,32853,26123,214,120,1.0,Urban,Adajan,Row House,Y
+SURAT00353,Rajesh Patel,Male,Yes,3+,Graduate,No,30816,7797,233,360,1.0,Semiurban,Udhna,Row House,Y
+SURAT00354,Jignesh Modi,Male,Yes,0,Graduate,No,41432,8346,205,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00355,Dhruv Shah,Male,No,0,Graduate,No,60617,0,313,360,0.0,Semiurban,Limbayat,Apartment,Y
+SURAT00356,Harsh Desai,Male,Yes,1,Not Graduate,No,14837,33672,339,360,1.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00357,Rajesh Patel,Male,Yes,0,Graduate,No,46217,17653,358,84,1.0,Urban,Pal,Shop+Flat,Y
+SURAT00358,Amit Desai,Male,No,0,Not Graduate,No,28884,0,113,120,1.0,Semiurban,Udhna,Shop+Flat,Y
+SURAT00359,Pooja Joshi,Female,Yes,1,Graduate,,17454,1184,153,360,1.0,Urban,Vesu,Tenament,Y
+SURAT00360,Harsh Desai,Male,Yes,0,Graduate,No,55618,34493,423,360,1.0,Rural,Hazira,Row House,Y
+SURAT00361,Nirav Desai,Male,No,3+,Graduate,No,74671,0,,240,1.0,Urban,Athwa,Bungalow,Y
+SURAT00362,Nilesh Mehta,Male,Yes,0,Graduate,No,59111,22195,373,360,0.0,Semiurban,Bhatar,Bungalow,N
+SURAT00363,Amit Desai,Male,Yes,0,Graduate,No,51613,5606,371,60,1.0,Semiurban,Limbayat,Row House,Y
+SURAT00364,Alpesh Patel,Male,Yes,0,Not Graduate,No,28142,3956,113,360,1.0,Urban,Althan,Apartment,N
+SURAT00365,Priya Patel,Female,Yes,2,Graduate,No,71993,16555,384,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00366,Nirav Desai,Male,Yes,0,Graduate,No,20848,24849,104,360,1.0,Rural,Olpad,Shop+Flat,Y
+SURAT00367,Pooja Joshi,Female,Yes,1,Not Graduate,No,24549,18690,259,60,1.0,Urban,Althan,Apartment,N
+SURAT00368,Neha Shah,Female,Yes,0,Graduate,Yes,78125,26347,216,240,1.0,Rural,Kim,Shop+Flat,Y
+SURAT00369,Amit Desai,Male,Yes,2,Graduate,No,73602,33189,460,240,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00370,Vishal Mehta,Male,No,0,Graduate,No,84045,0,385,360,0.0,Urban,Pal,Bungalow,N
+SURAT00371,Vishal Mehta,Male,No,0,Not Graduate,No,15693,0,75,240,1.0,Semiurban,Limbayat,Row House,N
+SURAT00372,Dipak Parmar,Male,Yes,1,Graduate,No,54222,15966,588,180,1.0,Urban,Athwa,Bungalow,N
+SURAT00373,Chirag Patel,Male,Yes,0,Graduate,No,61223,31097,538,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00374,Vijay Modi,Male,No,0,Not Graduate,No,19708,0,118,360,1.0,Semiurban,Amroli,Shop+Flat,Y
+SURAT00375,Tushar Shah,Male,Yes,2,Graduate,Yes,77333,4675,309,360,1.0,Rural,Bajipura,Row House,Y
+SURAT00376,Nilesh Mehta,Male,Yes,0,Graduate,No,64732,13009,164,360,1.0,Rural,Kim,Apartment,Y
+SURAT00377,Mital Patel,Female,No,2,Graduate,No,61420,0,217,360,1.0,Semiurban,Katargam,Row House,Y
+SURAT00378,Vishal Mehta,Male,Yes,0,Graduate,Yes,14462,29793,279,360,0.0,Semiurban,Katargam,Apartment,Y
+SURAT00379,Jalpa Patel,Female,Yes,2,Graduate,No,21460,17857,208,360,0.0,Urban,Ghod Dod Road,Apartment,N
+SURAT00380,Chirag Patel,Male,No,0,Graduate,No,21275,0,66,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00381,Jignesh Modi,Male,Yes,0,Graduate,Yes,25269,18565,304,360,0.0,Urban,Ghod Dod Road,Shop+Flat,Y
+SURAT00382,Dhruv Shah,Male,Yes,3+,Not Graduate,No,39289,26025,,120,1.0,Semiurban,Bhatar,Row House,N
+SURAT00383,Manish Trivedi,Male,Yes,2,Not Graduate,No,32368,27832,227,360,1.0,Semiurban,Varachha,Row House,N
+SURAT00384,Ritu Shah,Female,No,0,Graduate,No,77942,0,653,360,,Urban,Citylight,Apartment,Y
+SURAT00385,Rajesh Patel,Male,No,0,Graduate,No,84920,0,654,360,1.0,Urban,Althan,Apartment,N
+SURAT00386,Ritu Shah,Female,No,2,Graduate,No,34553,0,190,240,1.0,Urban,Vesu,Tenament,N
+SURAT00387,Alpesh Patel,Male,Yes,0,Graduate,No,36366,5798,275,360,1.0,Semiurban,Varachha,Row House,Y
+SURAT00388,Chirag Patel,Male,No,2,Not Graduate,No,19268,0,101,180,1.0,Semiurban,Limbayat,Shop+Flat,Y
+SURAT00389,Alpesh Patel,Male,No,2,Not Graduate,No,25369,0,142,360,,Semiurban,Bhatar,Apartment,Y
+SURAT00390,Kavita Modi,Female,Yes,0,Graduate,No,23795,12720,104,240,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00391,Disha Mehta,Female,No,0,Not Graduate,No,12485,0,50,360,1.0,Semiurban,Varachha,Shop+Flat,Y
+SURAT00392,Jignesh Modi,Male,No,1,Graduate,No,80154,0,529,240,1.0,Urban,Vesu,Row House,N
+SURAT00393,Suresh Shah,Male,Yes,0,Graduate,Yes,42143,30916,577,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00394,Rajesh Patel,Male,Yes,0,Graduate,No,41425,22057,327,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00395,Nirav Desai,Male,Yes,3+,Not Graduate,Yes,30673,11706,138,360,1.0,Semiurban,Bhatar,Bungalow,N
+SURAT00396,Hetal Mehta,Female,Yes,1,Graduate,No,17368,12070,119,360,1.0,Urban,Vesu,Apartment,N
+SURAT00397,Kavita Modi,Female,Yes,2,Graduate,No,16621,924,133,60,1.0,Urban,Adajan,Row House,Y
+SURAT00398,Dipak Parmar,Male,Yes,1,Not Graduate,No,34061,26478,253,180,0.0,Urban,Althan,Apartment,Y
+SURAT00399,Manish Trivedi,Male,No,1,Graduate,No,72294,0,343,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00400,Suresh Shah,Male,No,0,Graduate,,26719,0,98,360,1.0,Urban,Adajan,Tenament,Y
+SURAT00401,Amit Desai,Male,No,0,Not Graduate,Yes,37227,0,113,84,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00402,Ritu Shah,Female,Yes,0,Graduate,No,19566,8226,107,360,0.0,Rural,Kim,Row House,N
+SURAT00403,Sanjay Patel,Male,Yes,0,Graduate,No,24306,11781,248,240,0.0,Urban,Pal,Bungalow,N
+SURAT00404,Kavita Modi,Female,Yes,2,Graduate,No,65822,5515,210,84,1.0,Rural,Kamrej,Apartment,Y
+SURAT00405,Nilesh Mehta,Male,Yes,0,Graduate,No,36042,16972,189,120,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00406,Hetal Mehta,Female,No,0,Not Graduate,No,23086,0,135,360,1.0,Semiurban,Varachha,Row House,Y
+SURAT00407,Ketan Patel,Male,No,0,Graduate,No,29387,0,105,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00408,Ravi Joshi,Male,Yes,0,Graduate,No,39042,19522,283,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00409,Neha Shah,Female,No,0,Graduate,Yes,63618,0,412,240,1.0,Semiurban,Varachha,Apartment,N
+SURAT00410,Sanjay Patel,Male,No,0,Graduate,Yes,30323,0,100,360,0.0,Semiurban,Udhna,Row House,Y
+SURAT00411,Amit Desai,Male,Yes,0,Graduate,Yes,30019,20470,409,360,1.0,Urban,Athwa,Row House,Y
+SURAT00412,Kavita Modi,Female,No,0,Graduate,No,52863,0,232,360,0.0,Urban,Vesu,Row House,Y
+SURAT00413,Sonal Parmar,,Yes,0,Graduate,No,22283,22403,280,360,1.0,Urban,Althan,Apartment,Y
+SURAT00414,Sanjay Patel,,Yes,2,Graduate,No,30279,29122,317,240,1.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00415,Bhavesh Shah,Male,Yes,0,Graduate,No,58999,16940,624,360,1.0,Urban,Athwa,Tenament,Y
+SURAT00416,Manish Trivedi,Male,Yes,0,Graduate,No,74780,29831,506,360,1.0,Urban,Athwa,Row House,Y
+SURAT00417,Vishal Mehta,Male,Yes,1,Graduate,No,34908,11279,198,360,1.0,Semiurban,Varachha,Bungalow,Y
+SURAT00418,Bhavesh Shah,Male,Yes,0,Graduate,No,73584,6477,380,84,0.0,Rural,Hazira,Row House,N
+SURAT00419,Jignesh Modi,Male,Yes,2,Graduate,Yes,62225,17400,278,360,0.0,Rural,Kamrej,Shop+Flat,N
+SURAT00420,Alpesh Patel,Male,Yes,0,Graduate,No,49952,6470,264,180,0.0,Semiurban,Udhna,Shop+Flat,Y
+SURAT00421,Priya Patel,Female,Yes,0,Graduate,No,49663,2062,193,84,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00422,Komal Desai,Female,Yes,1,Not Graduate,No,31715,19880,204,360,0.0,Rural,Bajipura,Apartment,Y
+SURAT00423,Ravi Joshi,Male,Yes,0,Graduate,No,73381,34581,385,360,0.0,Urban,Athwa,Apartment,Y
+SURAT00424,Harsh Desai,Male,Yes,1,Graduate,No,59929,14308,277,84,1.0,Urban,Vesu,Apartment,Y
+SURAT00425,Suresh Shah,Male,Yes,0,Not Graduate,No,17343,26027,159,360,,Rural,Sachin,Apartment,Y
+SURAT00426,Hitesh Shah,Male,Yes,2,Graduate,Yes,51791,30720,335,360,1.0,Semiurban,Udhna,Bungalow,Y
+SURAT00427,Dhruv Shah,Male,Yes,0,Graduate,No,41134,9706,326,360,1.0,Semiurban,Amroli,Apartment,N
+SURAT00428,Nisha Trivedi,Female,Yes,0,Graduate,No,59101,9837,546,360,1.0,Urban,Althan,Row House,Y
+SURAT00429,Dipak Parmar,Male,No,1,Graduate,No,81443,0,,180,,Urban,Citylight,Row House,Y
+SURAT00430,Vishal Mehta,Male,Yes,0,Not Graduate,No,8807,32088,175,120,1.0,Rural,Olpad,Apartment,Y
+SURAT00431,Vijay Modi,Male,Yes,0,Graduate,No,69530,28112,519,180,1.0,Semiurban,Amroli,Shop+Flat,N
+SURAT00432,Hitesh Shah,Male,No,2,Not Graduate,No,22031,0,90,360,,Urban,Vesu,Bungalow,N
+SURAT00433,Suresh Shah,Male,No,2,Graduate,No,16827,0,122,360,1.0,Urban,Althan,Apartment,N
+SURAT00434,Nilesh Mehta,Male,No,0,Graduate,No,74653,0,265,360,0.0,Semiurban,Varachha,Apartment,N
+SURAT00435,Dipak Parmar,Male,No,2,Graduate,No,25699,0,102,360,1.0,Semiurban,Katargam,Apartment,N
+SURAT00436,Ketan Patel,Male,Yes,3+,Graduate,No,17313,2936,152,240,1.0,Urban,Althan,Bungalow,Y
+SURAT00437,Jignesh Modi,Male,Yes,2,Graduate,No,25598,14506,140,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00438,Hetal Mehta,Female,Yes,0,Not Graduate,No,21058,28805,384,240,1.0,Urban,Pal,Row House,N
+SURAT00439,Manish Trivedi,Male,Yes,2,Graduate,No,40807,14318,250,360,1.0,Urban,Citylight,Bungalow,Y
+SURAT00440,Vijay Modi,Male,Yes,0,Graduate,No,82423,26026,551,360,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00441,Ravi Joshi,Male,Yes,3+,Graduate,No,81390,27672,426,360,1.0,Urban,Adajan,Shop+Flat,Y
+SURAT00442,Mital Patel,Female,Yes,0,Graduate,No,57226,27281,321,360,0.0,Rural,Sachin,Apartment,N
+SURAT00443,Suresh Shah,Male,No,0,Graduate,No,71550,0,406,360,1.0,Semiurban,Amroli,Shop+Flat,Y
+SURAT00444,Bhavesh Shah,Male,No,1,Not Graduate,No,22536,0,112,240,,Semiurban,Udhna,Apartment,N
+SURAT00445,Hetal Mehta,Female,Yes,0,Graduate,No,15558,1079,79,180,1.0,Urban,Citylight,Row House,N
+SURAT00446,Nisha Trivedi,Female,No,3+,Graduate,No,62113,0,226,180,1.0,Urban,Athwa,Apartment,Y
+SURAT00447,Mital Patel,Female,Yes,3+,Graduate,Yes,64999,20590,349,60,1.0,Urban,Althan,Bungalow,Y
+SURAT00448,Sanjay Patel,Male,No,1,Not Graduate,No,31110,0,160,360,,Semiurban,Udhna,Row House,N
+SURAT00449,Manish Trivedi,Male,Yes,0,Not Graduate,,11575,15327,170,360,1.0,Semiurban,Udhna,Apartment,N
+SURAT00450,Ketan Patel,Male,No,1,Graduate,No,70219,0,181,360,1.0,Rural,Sachin,Row House,Y
+SURAT00451,Harsh Desai,Male,Yes,0,Graduate,No,47186,7235,303,240,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00452,Suresh Shah,Male,Yes,0,Not Graduate,No,12198,17197,130,360,1.0,Rural,Olpad,Row House,Y
+SURAT00453,Sanjay Patel,Male,Yes,2,Graduate,No,45769,21473,319,180,0.0,Semiurban,Amroli,Shop+Flat,Y
+SURAT00454,Disha Mehta,Female,Yes,0,Not Graduate,No,29628,2031,214,360,1.0,Urban,Athwa,Apartment,N
+SURAT00455,Dhruv Shah,Male,Yes,0,Graduate,No,65218,14287,595,84,1.0,Urban,Pal,Apartment,Y
+SURAT00456,Manish Trivedi,Male,Yes,3+,Graduate,No,31229,32230,238,84,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00457,Hitesh Shah,Male,Yes,0,Not Graduate,No,17673,19037,181,360,1.0,Urban,Adajan,Row House,Y
+SURAT00458,Bhavesh Shah,Male,Yes,0,Not Graduate,No,35877,27052,220,360,,Urban,Citylight,Apartment,N
+SURAT00459,Vishal Mehta,Male,No,3+,Graduate,No,70001,0,452,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00460,Suresh Shah,Male,No,0,Graduate,No,50084,0,228,360,0.0,Rural,Bajipura,Apartment,Y
+SURAT00461,Dipak Parmar,Male,Yes,2,Graduate,No,28806,25425,392,360,0.0,Urban,Athwa,Apartment,N
+SURAT00462,Rajesh Patel,Male,Yes,3+,Graduate,No,49034,19281,208,240,1.0,Semiurban,Amroli,Tenament,Y
+SURAT00463,Alpesh Patel,Male,Yes,3+,Graduate,Yes,52317,20425,236,360,1.0,Rural,Sachin,Apartment,Y
+SURAT00464,Vijay Modi,Male,No,1,Graduate,No,67468,0,212,360,1.0,Semiurban,Limbayat,Row House,Y
+SURAT00465,Asha Desai,Female,Yes,0,Not Graduate,No,27094,32113,211,240,,Urban,Adajan,Bungalow,Y
+SURAT00466,Dipak Parmar,Male,No,0,Graduate,No,69796,0,455,360,,Urban,Althan,Bungalow,Y
+SURAT00467,Harsh Desai,Male,No,2,Graduate,No,22589,0,145,360,0.0,Semiurban,Katargam,Apartment,N
+SURAT00468,Foram Patel,Female,Yes,2,Graduate,No,69221,29809,616,360,0.0,Semiurban,Udhna,Row House,Y
+SURAT00469,Vijay Modi,Male,Yes,0,Graduate,No,13657,34552,190,240,1.0,Rural,Olpad,Shop+Flat,N
+SURAT00470,Priya Patel,Female,No,0,Graduate,No,51531,0,160,360,0.0,Semiurban,Katargam,Apartment,Y
+SURAT00471,Dhruv Shah,Male,No,0,Not Graduate,Yes,27459,0,132,120,1.0,Urban,Vesu,Apartment,N
+SURAT00472,Pooja Joshi,Female,Yes,0,Graduate,No,15164,28706,222,360,1.0,Urban,Adajan,Apartment,N
+SURAT00473,Amit Desai,Male,Yes,1,Not Graduate,No,35542,9190,254,360,1.0,Semiurban,Amroli,Apartment,N
+SURAT00474,Mital Patel,Female,No,0,Not Graduate,No,26437,0,196,360,1.0,Urban,Althan,Apartment,N
+SURAT00475,Suresh Shah,Male,Yes,3+,Graduate,No,53247,14892,367,360,1.0,Urban,Vesu,Bungalow,Y
+SURAT00476,Ritu Shah,Female,No,2,Not Graduate,No,13737,0,59,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00477,Nirav Desai,Male,Yes,0,Not Graduate,No,27601,9943,139,360,1.0,Urban,Althan,Row House,Y
+SURAT00478,Nilesh Mehta,Male,Yes,1,Graduate,No,62599,21042,411,360,0.0,Urban,Pal,Row House,Y
+SURAT00479,Pooja Joshi,Female,No,0,Graduate,No,83545,0,477,360,1.0,Urban,Pal,Apartment,Y
+SURAT00480,Rajesh Patel,Male,Yes,1,Graduate,No,16552,20918,152,360,1.0,Urban,Vesu,Bungalow,N
+SURAT00481,Vijay Modi,Male,Yes,2,Graduate,No,21417,28379,284,240,1.0,Urban,Athwa,Apartment,Y
+SURAT00482,Nirav Desai,Male,Yes,2,Not Graduate,No,33811,25274,356,360,1.0,Semiurban,Udhna,Shop+Flat,Y
+SURAT00483,Tushar Shah,Male,Yes,2,Graduate,No,80207,17696,355,360,1.0,Rural,Sachin,Apartment,N
+SURAT00484,Alpesh Patel,Male,Yes,0,Not Graduate,No,14519,2962,67,180,1.0,Urban,Pal,Row House,Y
+SURAT00485,Amit Desai,Male,Yes,0,Graduate,No,15722,13851,103,360,1.0,Semiurban,Bhatar,Bungalow,Y
+SURAT00486,Kavita Modi,,Yes,2,Graduate,No,82442,5296,511,180,1.0,Urban,Vesu,Apartment,Y
+SURAT00487,Dipak Parmar,Male,No,0,Not Graduate,Yes,38096,0,157,360,,Semiurban,Bhatar,Apartment,Y
+SURAT00488,Bhavesh Shah,Male,Yes,0,Graduate,No,52031,5730,173,360,1.0,Rural,Hazira,Bungalow,Y
+SURAT00489,Komal Desai,Female,Yes,0,Graduate,No,33438,13921,226,84,1.0,Semiurban,Bhatar,Apartment,N
+SURAT00490,Foram Patel,Female,Yes,1,Graduate,No,70819,32894,377,360,1.0,Rural,Hazira,Shop+Flat,N
+SURAT00491,Hitesh Shah,Male,No,0,Graduate,No,55856,0,413,180,0.0,Urban,Adajan,Tenament,N
+SURAT00492,Dipak Parmar,Male,No,1,Graduate,No,45576,0,235,360,1.0,Urban,Adajan,Apartment,Y
+SURAT00493,Suresh Shah,Male,Yes,3+,Graduate,No,53938,19023,310,360,0.0,Rural,Hazira,Apartment,N
+SURAT00494,Ravi Joshi,Male,Yes,0,Graduate,No,61028,15997,397,120,0.0,Urban,Citylight,Apartment,Y
+SURAT00495,Suresh Shah,Male,Yes,0,Not Graduate,No,35039,17750,199,360,0.0,Urban,Althan,Apartment,Y
+SURAT00496,Ravi Joshi,Male,No,0,Graduate,No,61877,0,302,120,,Semiurban,Amroli,Bungalow,Y
+SURAT00497,Ravi Joshi,Male,No,2,Graduate,Yes,55461,0,202,360,1.0,Rural,Kamrej,Bungalow,Y
+SURAT00498,Harsh Desai,Male,No,0,Graduate,No,52469,0,242,360,1.0,Rural,Olpad,Apartment,Y
+SURAT00499,Priya Patel,Female,No,0,Not Graduate,No,25600,0,180,360,,Urban,Adajan,Apartment,N
+SURAT00500,Priya Patel,Female,No,0,Graduate,No,32435,0,148,120,1.0,Rural,Bajipura,Apartment,Y
+SURAT00501,Dipak Parmar,Male,Yes,2,Graduate,No,26191,2887,231,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00502,Harsh Desai,Male,Yes,0,Graduate,No,39386,2841,272,360,,Urban,Pal,Bungalow,Y
+SURAT00503,Manish Trivedi,Male,Yes,2,Graduate,No,43721,28756,346,120,1.0,Semiurban,Udhna,Apartment,Y
+SURAT00504,Nisha Trivedi,Female,Yes,3+,Not Graduate,No,30018,6040,224,180,0.0,Urban,Citylight,Bungalow,Y
+SURAT00505,Dhruv Shah,Male,No,0,Graduate,No,25704,0,213,360,1.0,Urban,Vesu,Row House,Y
+SURAT00506,Amit Desai,Male,Yes,2,Graduate,Yes,68635,30341,,360,1.0,Semiurban,Udhna,Bungalow,Y
+SURAT00507,Asha Desai,Female,Yes,0,Graduate,Yes,14123,4758,75,360,,Urban,Athwa,Apartment,N
+SURAT00508,Neha Shah,Female,Yes,2,Graduate,No,74993,17010,672,360,0.0,Urban,Ghod Dod Road,Row House,Y
+SURAT00509,Hetal Mehta,Female,Yes,1,Not Graduate,Yes,22448,31658,234,360,1.0,Urban,Citylight,Row House,Y
+SURAT00510,Sanjay Patel,Male,Yes,2,Not Graduate,Yes,22586,1375,107,240,1.0,Semiurban,Varachha,Bungalow,N
+SURAT00511,Sanjay Patel,Male,Yes,0,Graduate,No,37416,33949,254,360,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00512,Alpesh Patel,Male,Yes,0,Not Graduate,No,9814,22092,172,180,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00513,Komal Desai,Female,Yes,0,Not Graduate,No,21001,490,131,180,1.0,Semiurban,Varachha,Row House,Y
+SURAT00514,Mital Patel,Female,Yes,0,Graduate,Yes,62258,3729,255,360,,Semiurban,Udhna,Apartment,Y
+SURAT00515,Suresh Shah,Male,Yes,0,Graduate,No,28508,5974,76,360,1.0,Rural,Sachin,Apartment,Y
+SURAT00516,Sanjay Patel,Male,Yes,0,Graduate,Yes,47699,19680,334,360,1.0,Urban,Citylight,Tenament,Y
+SURAT00517,Alpesh Patel,Male,Yes,0,Not Graduate,No,21567,18324,271,360,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00518,Hetal Mehta,Female,Yes,0,Not Graduate,No,22038,31334,155,240,1.0,Rural,Hazira,Apartment,N
+SURAT00519,Rupal Shah,Female,No,2,Not Graduate,No,20317,0,98,360,1.0,Urban,Vesu,Apartment,N
+SURAT00520,Bhavesh Shah,Male,Yes,0,Not Graduate,No,39000,34650,185,360,1.0,Rural,Bajipura,Row House,Y
+SURAT00521,Bhavesh Shah,Male,Yes,0,Graduate,Yes,47739,21292,322,360,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00522,Manish Trivedi,Male,No,0,Not Graduate,No,10017,0,50,360,1.0,Semiurban,Bhatar,Row House,Y
+SURAT00523,Nisha Trivedi,Female,Yes,0,Not Graduate,No,39980,32626,514,360,1.0,Urban,Adajan,Apartment,N
+SURAT00524,Ritu Shah,Female,Yes,3+,Graduate,No,13609,29351,130,360,,Semiurban,Varachha,Apartment,N
+SURAT00525,Priya Patel,Female,No,0,Graduate,Yes,78253,0,528,360,1.0,Urban,Vesu,Bungalow,Y
+SURAT00526,Nirav Desai,Male,Yes,1,Not Graduate,No,27945,21638,181,360,1.0,Semiurban,Katargam,Apartment,N
+SURAT00527,Sanjay Patel,Male,Yes,3+,Graduate,No,40141,1073,190,120,1.0,Semiurban,Bhatar,Tenament,Y
+SURAT00528,Chirag Patel,Male,No,2,Not Graduate,No,38009,0,106,180,0.0,Rural,Olpad,Apartment,N
+SURAT00529,Alpesh Patel,Male,No,1,Graduate,No,18782,0,132,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00530,Pooja Joshi,Female,Yes,2,Graduate,No,37933,4340,343,360,1.0,Urban,Pal,Apartment,N
+SURAT00531,Jalpa Patel,Female,Yes,3+,Not Graduate,No,19618,34924,435,360,1.0,Urban,Athwa,Apartment,N
+SURAT00532,Hetal Mehta,Female,Yes,1,Graduate,No,20307,16184,182,360,1.0,Semiurban,Amroli,Tenament,Y
+SURAT00533,Priya Patel,Female,Yes,1,Graduate,No,50346,2580,174,360,0.0,Rural,Sachin,Shop+Flat,Y
+SURAT00534,Nilesh Mehta,Male,Yes,1,Graduate,No,62772,28967,688,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00535,Chirag Patel,Male,Yes,0,Not Graduate,No,14548,2159,89,360,1.0,Semiurban,Limbayat,Row House,N
+SURAT00536,Mital Patel,Female,Yes,1,Graduate,No,52149,13900,290,360,1.0,Urban,Athwa,Row House,Y
+SURAT00537,Pooja Joshi,Female,Yes,0,Not Graduate,No,29164,11440,239,360,1.0,Semiurban,Varachha,Apartment,Y
+SURAT00538,Jignesh Modi,Male,No,0,Graduate,No,39526,0,126,360,1.0,Rural,Bajipura,Apartment,Y
+SURAT00539,Sanjay Patel,Male,Yes,0,Not Graduate,No,39222,12021,226,240,1.0,Urban,Althan,Shop+Flat,Y
+SURAT00540,Nirav Desai,Male,Yes,0,Not Graduate,No,28176,6772,170,360,1.0,Urban,Adajan,Tenament,Y
+SURAT00541,Foram Patel,Female,Yes,0,Graduate,No,80477,1627,225,360,1.0,Rural,Kim,Tenament,Y
+SURAT00542,Ravi Joshi,Male,Yes,0,Graduate,No,17695,8219,89,360,1.0,Rural,Olpad,Bungalow,N
+SURAT00543,Hitesh Shah,Male,Yes,1,Graduate,No,51169,23464,272,120,,Semiurban,Amroli,Row House,N
+SURAT00544,Nirav Desai,Male,No,0,Graduate,Yes,59947,0,193,120,0.0,Semiurban,Amroli,Apartment,N
+SURAT00545,Manish Trivedi,Male,Yes,2,Graduate,No,59224,8488,278,240,0.0,Urban,Adajan,Apartment,Y
+SURAT00546,Chirag Patel,Male,Yes,0,Graduate,No,57865,34949,463,,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00547,Dhruv Shah,Male,Yes,0,Graduate,Yes,37553,18981,229,360,,Rural,Olpad,Row House,Y
+SURAT00548,Bhavesh Shah,Male,Yes,2,Graduate,No,72410,901,292,180,1.0,Semiurban,Limbayat,Bungalow,Y
+SURAT00549,Dhruv Shah,Male,Yes,1,Graduate,No,36816,22444,217,360,1.0,Urban,Vesu,Bungalow,Y
+SURAT00550,Vishal Mehta,Male,Yes,0,Graduate,Yes,67026,18061,350,360,0.0,Urban,Ghod Dod Road,Shop+Flat,N
+SURAT00551,Nirav Desai,Male,No,2,Not Graduate,,25937,0,207,120,1.0,Urban,Citylight,Shop+Flat,Y
+SURAT00552,Hetal Mehta,Female,Yes,2,Graduate,No,73922,29863,614,360,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00553,Dhruv Shah,Male,Yes,0,Graduate,No,13881,5622,111,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00554,Ravi Joshi,Male,Yes,0,Graduate,No,51567,1378,195,360,1.0,Urban,Athwa,Bungalow,Y
+SURAT00555,Asha Desai,Female,Yes,3+,Not Graduate,No,22597,17632,284,360,1.0,Urban,Athwa,Row House,N
+SURAT00556,Chirag Patel,Male,No,1,Not Graduate,Yes,37624,0,229,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00557,Harsh Desai,Male,Yes,0,Not Graduate,No,21675,5650,96,240,1.0,Semiurban,Amroli,Tenament,Y
+SURAT00558,Jignesh Modi,Male,No,2,Not Graduate,No,12586,0,50,240,1.0,Urban,Athwa,Shop+Flat,N
+SURAT00559,Jignesh Modi,Male,Yes,0,Graduate,No,37006,22499,320,360,1.0,Urban,Pal,Apartment,Y
+SURAT00560,Tushar Shah,Male,Yes,0,Not Graduate,Yes,16430,4603,159,120,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00561,Dhruv Shah,Male,Yes,0,Graduate,No,34831,27773,484,360,1.0,Urban,Vesu,Row House,Y
+SURAT00562,Amit Desai,Male,No,2,Graduate,Yes,28459,0,144,360,,Semiurban,Varachha,Row House,Y
+SURAT00563,Jignesh Modi,Male,Yes,1,Not Graduate,Yes,17548,12632,213,180,1.0,Urban,Pal,Shop+Flat,Y
+SURAT00564,Manish Trivedi,Male,Yes,1,Graduate,No,76486,30607,341,180,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00565,Dhruv Shah,Male,No,0,Graduate,No,17877,0,65,360,1.0,Rural,Kamrej,Apartment,N
+SURAT00566,Bhavesh Shah,Male,Yes,0,Graduate,No,51553,220,275,120,1.0,Semiurban,Katargam,Apartment,Y
+SURAT00567,Vishal Mehta,Male,Yes,0,Graduate,No,16922,4818,76,240,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00568,Amit Desai,Male,Yes,2,Graduate,No,16686,7349,107,120,1.0,Rural,Bajipura,Apartment,N
+SURAT00569,Rupal Shah,Female,No,0,Graduate,No,44766,0,,360,1.0,Semiurban,Udhna,Shop+Flat,Y
+SURAT00570,Hitesh Shah,Male,Yes,0,Graduate,No,44006,27464,359,240,1.0,Urban,Vesu,Apartment,Y
+SURAT00571,Suresh Shah,Male,No,2,Graduate,No,43422,0,284,60,1.0,Urban,Althan,Apartment,Y
+SURAT00572,Asha Desai,Female,No,0,Not Graduate,No,26286,0,99,240,1.0,Rural,Kamrej,Apartment,N
+SURAT00573,Nilesh Mehta,Male,Yes,3+,Graduate,No,24205,1462,177,360,1.0,Urban,Athwa,Apartment,Y
+SURAT00574,Dipak Parmar,Male,No,0,Graduate,Yes,35527,0,143,360,1.0,Urban,Citylight,Bungalow,Y
+SURAT00575,Pooja Joshi,Female,Yes,1,Not Graduate,No,21179,24920,277,360,0.0,Semiurban,Katargam,Row House,Y
+SURAT00576,Sonal Parmar,Female,Yes,0,Not Graduate,Yes,26443,16252,149,360,1.0,Rural,Sachin,Bungalow,N
+SURAT00577,Sanjay Patel,Male,No,3+,Graduate,No,28524,0,165,60,1.0,Urban,Citylight,Apartment,Y
+SURAT00578,Ritu Shah,Female,No,0,Not Graduate,No,26173,0,170,360,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00579,Nirav Desai,Male,Yes,0,Not Graduate,Yes,36202,14175,359,360,,Urban,Citylight,Apartment,Y
+SURAT00580,Bhavesh Shah,Male,Yes,0,Not Graduate,No,8016,6191,50,84,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00581,Vijay Modi,Male,Yes,0,Graduate,No,58142,17898,548,360,1.0,Urban,Althan,Bungalow,Y
+SURAT00582,Disha Mehta,Female,Yes,0,Graduate,No,73692,18982,367,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00583,Hitesh Shah,Male,Yes,3+,Graduate,No,32855,14622,98,360,1.0,Rural,Sachin,Row House,N
+SURAT00584,Jignesh Modi,Male,Yes,0,Graduate,No,72372,1001,315,360,1.0,Semiurban,Limbayat,Apartment,Y
+SURAT00585,Rajesh Patel,Male,Yes,2,Graduate,No,37095,23283,397,360,1.0,Semiurban,Varachha,Row House,Y
+SURAT00586,Chirag Patel,Male,Yes,1,Graduate,No,50724,21435,314,60,1.0,Urban,Citylight,Shop+Flat,Y
+SURAT00587,Hitesh Shah,Male,Yes,1,Graduate,No,61241,27223,601,360,1.0,Urban,Pal,Row House,Y
+SURAT00588,Manish Trivedi,Male,Yes,0,Graduate,No,64003,30024,321,360,1.0,Semiurban,Varachha,Row House,Y
+SURAT00589,Sanjay Patel,Male,Yes,0,Graduate,No,80379,30734,700,360,1.0,Urban,Ghod Dod Road,Tenament,Y
+SURAT00590,Suresh Shah,Male,No,2,Not Graduate,No,37301,0,222,360,1.0,Urban,Vesu,Row House,Y
+SURAT00591,Amit Desai,Male,Yes,3+,Graduate,No,27972,1191,199,360,0.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00592,Manish Trivedi,Male,No,0,Graduate,Yes,34927,0,123,360,1.0,Semiurban,Amroli,Apartment,Y
+SURAT00593,Suresh Shah,Male,No,0,Not Graduate,No,30285,0,123,360,1.0,Rural,Sachin,Bungalow,Y
+SURAT00594,Hitesh Shah,Male,Yes,0,Graduate,No,78630,27856,509,180,1.0,Rural,Bajipura,Bungalow,N
+SURAT00595,Disha Mehta,Female,No,3+,Graduate,No,64347,0,341,360,0.0,Semiurban,Amroli,Apartment,Y
+SURAT00596,Jignesh Modi,Male,Yes,0,Not Graduate,No,9404,24162,198,360,1.0,Urban,Ghod Dod Road,Apartment,N
+SURAT00597,Amit Desai,Male,Yes,0,Graduate,No,81518,6008,551,180,1.0,Semiurban,Bhatar,Tenament,Y
+SURAT00598,Dhruv Shah,Male,Yes,2,Not Graduate,No,20515,7987,58,360,1.0,Rural,Kamrej,Apartment,Y
+SURAT00599,Vishal Mehta,Male,Yes,0,Graduate,No,24205,30966,390,360,1.0,Urban,Citylight,Apartment,Y
+SURAT00600,Tushar Shah,Male,Yes,0,Graduate,Yes,24748,3332,126,360,1.0,Rural,Kamrej,Apartment,Y
+SURAT00601,Bhavesh Shah,Male,Yes,1,Graduate,No,33097,787,128,360,1.0,Urban,Ghod Dod Road,Bungalow,Y
+SURAT00602,Sanjay Patel,Male,Yes,3+,Graduate,No,15092,9873,81,360,1.0,Rural,Sachin,Apartment,Y
+SURAT00603,Chirag Patel,Male,No,0,Not Graduate,No,28543,0,73,360,1.0,Rural,Olpad,Row House,N
+SURAT00604,Sanjay Patel,Male,Yes,0,Graduate,No,34692,20225,196,360,0.0,Rural,Hazira,Apartment,N
+SURAT00605,Nirav Desai,Male,No,0,Graduate,No,35862,0,239,360,1.0,Urban,Athwa,Row House,N
+SURAT00606,Manish Trivedi,Male,Yes,0,Graduate,No,82469,7788,449,360,1.0,Urban,Citylight,Bungalow,Y
+SURAT00607,Dhruv Shah,Male,Yes,1,Graduate,No,16926,15689,187,360,1.0,Urban,Vesu,Apartment,Y
+SURAT00608,Tushar Shah,Male,No,0,Graduate,No,15969,0,77,180,1.0,Urban,Pal,Row House,Y
+SURAT00609,Nilesh Mehta,Male,Yes,0,Graduate,No,47733,29703,411,84,1.0,Urban,Ghod Dod Road,Apartment,Y
+SURAT00610,Rajesh Patel,Male,Yes,0,Graduate,Yes,81855,66,275,120,1.0,Semiurban,Bhatar,Apartment,Y
+SURAT00611,Bhavesh Shah,Male,Yes,1,Graduate,No,53743,7533,480,360,1.0,Urban,Athwa,Bungalow,Y
+SURAT00612,Asha Desai,Female,Yes,0,Graduate,Yes,51876,15103,186,360,1.0,Semiurban,Udhna,Apartment,N
+SURAT00613,Hitesh Shah,Male,No,2,Graduate,No,32323,0,198,360,1.0,Semiurban,Amroli,Bungalow,Y
+SURAT00614,Vishal Mehta,Male,Yes,0,Graduate,Yes,28428,11772,253,360,1.0,Urban,Althan,Apartment,N
